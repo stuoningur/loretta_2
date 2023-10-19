@@ -1,1 +1,4 @@
-print("hello world")
+from config import *
+
+
+print(BOT_TOKEN)
